@@ -1,7 +1,6 @@
 # Sistema de logs de Equipamento 
 
-Um sistema que cadastra as informações de manutenção de um equipamento
-
+Um sistema que cadastra as informações de manutenção de um equipamento, guardando informações como quando, aonde e por quem concertou, possuindo codigo do lacre(caso tenha) e o numero do protocolo da chamada do concerto
 # Pre-requisitos
 
 Como pre requesitos e nescessario ter software que fornece um ambiente de servidor web completo, como exemplo pode ser utilizado o [XAMPP](https://www.apachefriends.org/index.html) ou o [WAMP](https://www.apachefriends.org/index.html) 
