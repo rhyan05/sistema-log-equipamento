@@ -9,5 +9,5 @@ Como pre requesitos e nescessario ter software que fornece um ambiente de servid
 # Passo a Passo
 1. Apos a instalação, a primeira coisa a se fazer e criar o banco de dados, que esta no arquivo `modelo_bd.sql`
 2. Com isso, agora e so aproveitar e utilizar o sistema
-3. 
+
 ![image](https://github.com/user-attachments/assets/f18d8cef-2750-4e75-8d75-54f6b1701086)
